@@ -11,6 +11,11 @@ Avant la première utilisation, vous devez renseigner votre identifiant Pop and 
 
 Pour consulter votre solde, ouvrez l'application Raccourcis, puis cliquez sur le raccourci "Pop and Pay". Votre solde s'affichera dans une notification.
 
+## Automatisation
+Il est possible d'automatiser l'exécution du raccourci pour qu'il s'exécute lorsque vous scanner votre badge. Pour cela, ouvrez l'application Raccourcis, puis cliquez sur l'onglet "Automatisation". Cliquez sur le bouton "+" en haut à droite, puis sur "Créer une automatisation personnelle". Si votre badge est NFC, choisissez l'option "NFC".
+Scanner votre badge, puis cliquez sur "Executer immédiatement". Cliquez sur "Suivant" en haut à droite.
+Suivez les instructions pour configurer l'automatisation. Lorsque vous arrivez à l'étape "Ajouter une action", cliquez sur "Raccourcis", puis sur "Pop and Pay 2.0". Enregistrez l'automatisation en cliquant sur "Ok" en haut à droite.
+
 ## Avertissement
 Ce raccourci réalise la connexion à votre compte Pop and Pay en utilisant votre identifiant et votre mot de passe. Assurez-vous de ne pas partager votre raccourci avec d'autres personnes. Les identifiants sont stockés en clair dans le raccourci. Cependant, le raccourci ne les partage pas avec des serveurs externes.
 
